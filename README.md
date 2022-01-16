@@ -1,4 +1,4 @@
-# CSIS-1400
+# CSIS1400
 Repository for assignments.
 Student: Taylor Shipley
 College: Salt Lake Community
